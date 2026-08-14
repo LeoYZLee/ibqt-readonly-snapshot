@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:06:25.790742+00:00",
+  "generated_at": "2026-08-14T13:36:20.659307+00:00",
   "source": "IBQT read-only snapshot",
   "health": {
     "status": "ok"
@@ -9,7 +9,7 @@
     "host": "ib-gateway",
     "port": 4004,
     "server_version": 176,
-    "connection_time": "2026-08-14T12:06:25.589174+00:00",
+    "connection_time": "2026-08-14T13:36:20.502122+00:00",
     "account_count": 1,
     "error": null
   },
