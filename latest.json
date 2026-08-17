@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17T20:09:02.746185+00:00",
+  "generated_at": "2026-08-17T20:42:26.684011+00:00",
   "source": "IBQT read-only snapshot",
   "health": {
     "status": "ok"
   },
   "ib_status": {
-    "connected": true,
+    "connected": false,
     "host": "ib-gateway",
     "port": 4004,
-    "server_version": 176,
-    "connection_time": "2026-08-17T20:09:02.543441+00:00",
-    "account_count": 1,
-    "error": null
+    "server_version": null,
+    "connection_time": null,
+    "account_count": 0,
+    "error": "TimeoutError: "
   },
   "jobs": [
     {
