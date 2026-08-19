@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:47:31.020932+00:00",
+  "generated_at": "2026-08-19T13:32:58.292528+00:00",
   "source": "IBQT read-only snapshot",
   "health": {
     "status": "ok"
@@ -9,11 +9,11 @@
     "host": "ib-gateway",
     "port": 4004,
     "server_version": 176,
-    "connection_time": "2026-08-19T12:47:31.049043+00:00",
+    "connection_time": "2026-08-19T13:32:58.319728+00:00",
     "account_count": 1,
     "error": null
   },
-  "market_open": false,
+  "market_open": true,
   "strategy_running": true,
   "jobs": [
     {
@@ -22,7 +22,7 @@
       "status": "running",
       "return_code": null,
       "created_at": "2026-08-19T01:18:12.756219Z",
-      "updated_at": "2026-08-19T12:44:44.729037Z"
+      "updated_at": "2026-08-19T13:32:44.691891Z"
     }
   ],
   "latest_strategy": {
@@ -32,7 +32,7 @@
       "status": "running",
       "return_code": null,
       "created_at": "2026-08-19T01:18:12.756219Z",
-      "updated_at": "2026-08-19T12:44:44.729037Z"
+      "updated_at": "2026-08-19T13:32:44.691891Z"
     },
     "chart": [
       {
@@ -16000,7 +16000,9 @@
     ]
   },
   "data_timestamp": "2026-08-18T23:59:00+00:00",
-  "data_age_seconds": 46111,
-  "is_stale": false,
-  "stale_reasons": []
+  "data_age_seconds": 48838,
+  "is_stale": true,
+  "stale_reasons": [
+    "market_data_older_than_5_minutes"
+  ]
 }
