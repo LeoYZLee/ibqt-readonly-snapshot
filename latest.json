@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:56:04.280564+00:00",
+  "generated_at": "2026-08-19T07:38:30.571091+00:00",
   "source": "IBQT read-only snapshot",
   "health": {
     "status": "ok"
@@ -9,7 +9,7 @@
     "host": "ib-gateway",
     "port": 4004,
     "server_version": 176,
-    "connection_time": "2026-08-19T06:56:04.308349+00:00",
+    "connection_time": "2026-08-19T07:38:30.602837+00:00",
     "account_count": 1,
     "error": null
   },
@@ -22,7 +22,7 @@
       "status": "running",
       "return_code": null,
       "created_at": "2026-08-19T01:18:12.756219Z",
-      "updated_at": "2026-08-19T06:53:44.628494Z"
+      "updated_at": "2026-08-19T07:32:44.654948Z"
     }
   ],
   "latest_strategy": {
@@ -32,7 +32,7 @@
       "status": "running",
       "return_code": null,
       "created_at": "2026-08-19T01:18:12.756219Z",
-      "updated_at": "2026-08-19T06:53:44.628494Z"
+      "updated_at": "2026-08-19T07:32:44.654948Z"
     },
     "chart": [
       {
@@ -16000,7 +16000,7 @@
     ]
   },
   "data_timestamp": "2026-08-18T23:59:00+00:00",
-  "data_age_seconds": 25024,
+  "data_age_seconds": 27570,
   "is_stale": false,
   "stale_reasons": []
 }
